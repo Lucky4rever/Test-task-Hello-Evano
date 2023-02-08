@@ -73,7 +73,7 @@ body {
     width: 195px;
     height: 39px;
     left: 28px;
-    top: 36px;
+    top: 1080px;
 }
 #Group-300 > #Elipce {
     position: absolute;
@@ -563,7 +563,7 @@ body {
 }
 
 
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 768px) {
     body {
         width: 100%;
         height: calc(812px + 36%);
