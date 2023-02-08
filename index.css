@@ -1,0 +1,669 @@
+body {
+    position: absolute;
+    width: 1440px;
+    height: 1198px;
+    background: #FAFBFF;
+    top: 0px;
+    left: 0px;
+    font-family: 'Poppins';
+}
+#Hello-Evano {
+    position: relative;
+    width: 176px;
+    height: 36px;
+    left: 377px;
+    top: 41px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #000000;
+}
+#Side-Menu {
+    position: absolute;
+    width: 306px;
+    height: 1198px;
+    left: -6px;
+    top: -6px;
+    border-bottom: 16px solid #FFFFFF;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 60px rgba(226, 236, 249, 0.5);
+}
+#v01 {
+    position: absolute;
+    width: 18px;
+    height: 15px;
+    left: 199px;
+    top: 54px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 15px;
+    letter-spacing: -0.01em;
+    color: #838383;
+}
+
+#Group-31 {
+    position: absolute;
+    width: 195px;
+    height: 39px;
+    left: 28px;
+    top: 36px;
+}
+#Group-31 > #setting-1 {
+    position: absolute;
+    width: 37px;
+    height: 37px;
+}
+#Group-31 > #Dashboard {
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 45px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 39px;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+
+#Group-300 {
+    position: absolute;
+    width: 195px;
+    height: 39px;
+    left: 28px;
+    top: 36px;
+}
+#Group-300 > #Elipce {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+}
+#Group-300 > #Group-30 {
+    position: absolute;
+    width: 195px;
+    height: 39px;
+    top: 2px;
+    left: 28px;
+}
+#Group-300 > #Group-30 > #Project-Manager {
+    position: absolute;
+    width: 101px;
+    height: 18px;
+    left: 26px;
+    top: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.01em;
+    color: #757575;
+}
+#Group-300 > #Group-30 > #Evano {
+    position: absolute;
+    width: 44px;
+    height: 21px;
+    left: 26px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+
+#Dashboard-button {
+    position: absolute;
+    width: 250px;
+    height: 46px;
+    left: 28px;
+    top: 128px;
+    border-radius: 8px;
+}
+#Dashboard-button span {
+    width: 78px;
+    height: 21px;
+    top: 13px;
+    left: 49px;
+    position: absolute;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.01em;
+    color: #9197B3;
+}
+#Dashboard-button img {
+    transform: translateY(-5px);
+    top: 19px;
+    left: 19px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+}
+
+#Product-button {
+    position: absolute;
+    width: 250px;
+    height: 46px;
+    left: 28px;
+    top: 192px;
+    border-radius: 8px;
+}
+#Product-button span {
+    width: 78px;
+    height: 21px;
+    top: 13px;
+    left: 49px;
+    position: absolute;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.01em;
+    color: #9197B3;
+}
+#Product-button img {
+    transform: translateY(-5px);
+    top: 19px;
+    left: 19px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+}
+
+
+#Customers-button {
+    position: absolute;
+    width: 250px;
+    height: 46px;
+    left: 28px;
+    top: 256px;
+    border-radius: 8px;
+}
+#Customers-button span {
+    width: 78px;
+    height: 21px;
+    top: 13px;
+    left: 49px;
+    position: absolute;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.01em;
+    color: #9197B3;
+}
+#Customers-button img {
+    transform: translateY(-5px);
+    top: 19px;
+    left: 19px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+}
+
+
+#Income-button {
+    position: absolute;
+    width: 250px;
+    height: 46px;
+    left: 28px;
+    top: 320px;
+    border-radius: 8px; 
+}
+#Income-button span {
+    width: 78px;
+    height: 21px;
+    top: 13px;
+    left: 49px;
+    position: absolute;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.01em;
+    color: #9197B3;
+}
+#Income-button img {
+    transform: translateY(-5px);
+    top: 19px;
+    left: 19px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+}
+
+
+#Promote-button {
+    position: absolute;
+    width: 250px;
+    height: 46px;
+    left: 28px;
+    top: 384px;
+    border-radius: 8px;
+}
+#Promote-button span {
+    width: 78px;
+    height: 21px;
+    top: 13px;
+    left: 49px;
+    position: absolute;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.01em;
+    color: #9197B3;
+}
+#Promote-button img {
+    transform: translateY(-5px);
+    top: 19px;
+    left: 19px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+}
+
+
+#Help-button {
+    position: absolute;
+    width: 250px;
+    height: 46px;
+    left: 28px;
+    top: 448px;
+    border-radius: 8px;
+}
+#Help-button span {
+    width: 78px;
+    height: 21px;
+    top: 13px;
+    left: 49px;
+    position: absolute;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.01em;
+    color: #9197B3;
+}
+#Help-button img {
+    transform: translateY(-5px);
+    top: 19px;
+    left: 19px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+}
+
+.chevron-right-2 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 231px !important;
+    top: 19px;
+    content: url("icons/chevron-right-2.png") !important;
+}
+
+#Side-Menu > #Dashboard-button > img {content: url(icons/Dashboard.png);}
+#Side-Menu > #Product-button > img {content: url(icons/Product.png);}
+#Side-Menu > #Customers-button > img {content: url(icons/Customers.png);}
+#Side-Menu > #Income-button > img {content: url(icons/Income.png);}
+#Side-Menu > #Promote-button > img {content: url(icons/Promote.png);}
+#Side-Menu > #Help-button > img {content: url(icons/Help.png);}
+
+#Side-Menu > :where(#Dashboard-button, #Product-button, #Customers-button, #Income-button, #Promote-button, #Help-button) {
+    padding: 0px;
+    border: none;
+    background-color: #FFFFFF;
+}
+#Side-Menu > :where(#Dashboard-button, #Product-button, #Customers-button, #Income-button, #Promote-button, #Help-button) {
+    margin: 0px;
+}
+
+#Side-Menu > #Dashboard-button:hover > img {content: url(icons/Dashboard_after.png);}
+#Side-Menu > #Product-button:hover > img {content: url(icons/Product_after.png);}
+#Side-Menu > #Customers-button:hover > img {content: url(icons/Customers_after.png);}
+#Side-Menu > #Income-button:hover > img {content: url(icons/Income_after.png);}
+#Side-Menu > #Promote-button:hover > img {content: url(icons/Promote_after.png);}
+#Side-Menu > #Help-button:hover > img {content: url(icons/Help_after.png);}
+#Side-Menu .chevron-right-2 {content: url(icons/chevron-right-2_after.png) !important;}
+
+#Side-Menu > :where(#Dashboard-button, #Product-button, #Customers-button, #Income-button, #Promote-button, #Help-button):hover {
+    background: #5932EA !important;
+}
+
+#Side-Menu > :where(#Dashboard-button, #Product-button, #Customers-button, #Income-button, #Promote-button, #Help-button):hover span {
+    color: white !important;
+}
+#Side-Menu > :where(#Dashboard-button, #Product-button, #Customers-button, #Income-button, #Promote-button, #Help-button) {
+    display: flex;
+    vertical-align: middle;
+}
+
+#Side-Menu > :where(#Dashboard-button, #Product-button, #Customers-button, #Income-button, #Promote-button, #Help-button) span {
+    display: flex;
+    justify-content: left;
+    padding-top: 2px;
+}
+
+
+
+
+/*===================================================================================================*/
+
+
+
+
+#Product {
+    position: absolute;
+    width: 968px;
+    height: 812px;
+    left: 377px;
+    top: 128px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 60px rgba(226, 236, 249, 0.5);
+    border-radius: 30px;
+}
+#show-count {
+    position: absolute;
+    width: 243px;
+    height: 21px;
+    left: 38px;
+    top: 750px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.01em;
+    color: #B5B7C0;
+}
+#All-Customers {
+    position: absolute;
+    width: 155px;
+    height: 33px;
+    left: 38px;
+    top: 30px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: -0.01em;
+    color: #000000;
+}
+#Active-Members {
+    position: absolute;
+    width: 111px;
+    height: 21px;
+    left: 38px;
+    top: 70px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.01em;
+    color: #16C098;
+}
+
+#Group-299 {
+    position: absolute;
+    width: 271px;
+    height: 24px;
+    left: 657px;
+    top: 748px;
+    display: flex;
+    justify-content: space-between;
+    color: #404B52;
+}
+#Group-299 > :where(button, div) {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 6px 10px;
+    gap: 10px;
+
+    width: 25px;
+    height: 24px;
+}
+#Group-299 > button {
+    background: #F5F5F5;
+    border: 1px solid #EEEEEE;
+    border-radius: 4px;
+}
+#Group-299 > button:hover {
+    background: #5932EA;
+    border: 1px solid #5932EA;
+    color: white;
+}
+
+#Group-24 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 216px;
+    height: 38px;
+    left: 699px;
+    top: 44px;
+}
+#Group-24 > input[name="search"] {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 8px;
+    top: 7px;
+}
+#Group-24 > input[name="search-line"] {
+    box-sizing: border-box;
+    position: absolute;
+    width: 216px;
+    height: 38px;
+    background: #F9FBFF;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 10px 10px 40px;
+}
+
+#Group-22 {
+    position: absolute;
+    width: 968px;
+    height: 587px;
+    top: 131px;
+
+    display: grid;
+    grid-template-columns: auto;
+}
+#Group-22 span {
+    font-size: 11px;
+}
+.Group-22-row {
+    display: grid;
+    width: calc(100% - 80px);
+    grid-template-columns: 172px 131px 156px 207px 140px 86px;
+    margin: 0 40px;
+}
+.Group-22-title {
+    display: grid;
+    grid-template-columns: 100%;
+    border-bottom: 1px solid #EEEEEE;
+}
+.Group-22-title span {
+    color: #B5B7C0 !important;
+}
+.Group-22-title .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 0 0 11px 0 !important;
+    border-bottom: none !important;
+    max-height: 11px !important;
+}
+
+.Group-22-row > .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 21px 0;
+    /* outline: 3px solid black; */
+    border-bottom: 1px solid #EEEEEE;
+}
+.grid-item > span {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.01em;
+    color: #292D32;
+    max-height: 21px;
+    /* outline: 3px solid black; */
+}
+.grid-item > button {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 12px;
+    position: absolute;
+    width: 80px;
+    height: 29px;
+
+    background: rgba(22, 192, 152, 0.38);
+    border: 1px solid #00B087;
+    border-radius: 4px;
+}
+
+.button-active {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 12px;
+    gap: 10px;
+    position: absolute;
+    width: 84px;
+    height: 29px;
+    background: rgba(22, 192, 152, 0.38) !important;
+    border: 1px solid #00B087 !important;
+    border-radius: 4px;
+    color: #008767;
+}
+.button-inactive {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 12px;
+    gap: 10px;
+    position: absolute;
+    width: 80px;
+    height: 29px;
+    background: #FFC5C5 !important;
+    border: 1px solid #DF0404 !important;
+    border-radius: 4px;
+    color: #DF0404;
+}
+
+
+@media screen and (min-width: 768px) {
+    body {
+        width: 100%;
+        height: calc(812px + 36%);
+    }
+    #Hello-Evano {
+        left: 10%;
+        top: 14%;
+    }
+    #Side-Menu {
+        position: fixed;
+        width: 100%;
+        height: 10%;
+        min-height: 110px;
+        top: calc(100% - height);
+    }
+    #Product {
+        left: 0;
+        top: 20%;
+        display: block;
+        border-radius: 0 0 30px 30px;
+        width: 100%;
+    }
+    #Group-22 span {
+        font-size: 11px;
+    }
+    .Group-22-row {
+        width: calc(100% - 100px);
+        grid-template-columns: 19% 15% 21% 23% 18% 4%;
+    }
+    #Dashboard-button {
+        left: 30%;
+        top: 10%;
+        width: 20%;
+    }
+    #Product-button {
+        left: 56%;
+        top: 10%;
+        width: 20%;
+    }
+    #Customers-button {
+        left: 78%;
+        top: 10%;
+        width: 20%;
+    }
+    #Income-button {
+        left: 30%;
+        top: 55%;
+        width: 20%;
+    }
+    #Promote-button {
+        left: 56%;
+        top: 55%;
+        width: 20%;
+    }
+    #Help-button {
+        left: 78%;
+        top: 55%;
+        width: 20%;
+    }
+    .chevron-right-2 {
+        left: 85% !important;
+    }
+    #Group-31 {
+        top: 40%;
+        left: 4%;
+    }
+    #v01 {
+        top: calc(40% + 18px) !important;
+        left: calc(4% + 194px) !important;
+    }
+    #Group-300 {
+        position: absolute;
+        width: 110px;
+        height: 110px;
+        left: 85%;
+        top: 75vh;
+        box-shadow: 0px 10px 60px rgba(226, 236, 249, 0.5);
+        outline: 3px solid rgba(226, 236, 249, 0.5) !important;
+        background-color: #FFFFFF;
+        border-radius: 15px;
+        opacity: 0.86;
+    }
+    #Group-300 > #Elipce {
+        position: absolute;
+        width: 60px;
+        height: 60px;
+        top: 5px;
+        left: 25px;
+    }
+    #Group-300 > #Group-30 {
+        width: 100%;
+        height: 40px;
+        top: 70px;
+        left: 0;
+    }
+    #Group-300 > #Group-30 > #Project-Manager {
+        left: 5px;
+        top: 20px;
+    }
+    #Group-300 > #Group-30 > #Evano {
+        left: 33px;
+    }    
+}
